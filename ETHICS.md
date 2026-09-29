@@ -1,14 +1,16 @@
-# ETHICS — Persona Console
+# Ethics: Persona Console
 
-## Scope permitido
-- Configuración de **agentes IA** / personajes ficticios.
-- Objetivo: mejorar claridad, coherencia, seguridad, estilo y cumplimiento de guardrails.
+> English translation of the original [`docs/original/ETHICS.es.md`](docs/original/ETHICS.es.md). The Spanish original is authoritative.
 
-## Prohibido
-- Aplicar perfiles a **personas reales**.
-- Diseñar para manipulación/persuasión encubierta.
-- Evaluaciones que busquen explotar vulnerabilidades humanas.
+## Permitted scope
+- Configuring **AI agents** and fictional characters.
+- Goal: improve clarity, coherence, safety, style and compliance with guardrails.
 
-## Transparencia
-- La UI debe mostrar: parámetros → texto/prompt generado → tests/resultado.
-- Debe existir historial y rollback.
+## Forbidden
+- Applying profiles to **real people**.
+- Designing for manipulation or covert persuasion.
+- Evaluations that try to exploit human vulnerabilities.
+
+## Transparency
+- The UI must show: parameters → generated text/prompt → tests/results.
+- There must be a history and rollback.
